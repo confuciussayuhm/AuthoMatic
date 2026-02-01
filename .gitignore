@@ -1,5 +1,6 @@
-# Maven build output
-target/
+# Maven build output (except release JAR)
+target/*
+!target/authomatic-1.0.0.jar
 
 # Maven backup files
 pom.xml.versionsBackup

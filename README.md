@@ -14,7 +14,7 @@ Automatic 401 Unauthorized handling for Burp Suite. AuthoMatic intercepts 401 re
 
 ## Installation
 
-1. Download `authomatic-1.0.0.jar` from the [Releases](../../releases) page
+1. Download `authomatic-1.0.0.jar` from the [`target/`](target/) folder
 2. In Burp Suite: **Extensions** → **Add** → Select the JAR file
 3. The **AuthoMatic** tab will appear in Burp
 
